@@ -1,7 +1,22 @@
 ### Hi there 👋
+### HongTae Kim
+
+
+[Tech Blog](https://mong-tae.tistory.com) / 
+[CV](https://wind-mule-733.notion.site/HONGTAE-KIM-fc8ac07745104e928d9c5a43d5eadf36)
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MongTae)](https://github.com/MongTae/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MongTae)](https://github.com/MongTae/github-readme-stats)
+
+
 
 <!--
-**HoongTae/HoongTae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MongTae/MongTae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
