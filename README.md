@@ -2,11 +2,6 @@
 ## HongTae Kim
 
 
-[Tech Blog](https://mong-tae.tistory.com, "blog")
-
-[CV](https://wind-mule-733.notion.site/HONGTAE-KIM-fc8ac07745104e928d9c5a43d5eadf36, "Curriculum Vitae")
-
-
 
 
 
